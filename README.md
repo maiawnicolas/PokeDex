@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">PokéDex 💻</h1>
 
 <p align="center">
-     <a href="https://firstgeneration-pokedex.netlify.app/" _blank>📱 Visit this Project</a>
+     <a href="https://firstgeneration-pokedex.netlify.app/">📱 Visit this Project</a>
 </p>
 
 <h2 id="started">📌 About</h2>
